@@ -243,7 +243,7 @@ export const Projects2 = () => {
                   src="assets/images/projects/project-two4.png"
                   alt="Project"
                 />
-                <Link legacyBehavior href="https://kembangq.prinserenn.my.id">
+                <Link legacyBehavior href="https://autilearn.bersamaberanjak.com">
                   <a className="hover-box">
                     <span>View More</span>
                     <i className="far fa-arrow-up" />
@@ -252,8 +252,8 @@ export const Projects2 = () => {
               </div>
               <div className="content">
                 <h5 className="title">
-                  <Link legacyBehavior href="https://kembangq.prinserenn.my.id">
-                    <a>KembangQ - Monitoring Baby's Growth </a>
+                  <Link legacyBehavior href="https://autilearn.bersamaberanjak.com">
+                    <a>Autilearn</a>
                   </Link>
                 </h5>
                 <span className="sub-title">Full Stack Developer</span>
@@ -286,7 +286,7 @@ export const Projects2 = () => {
           </div>
           <div className="col-md-6 align-self-center">
             <div className="project-details-btn mb-50">
-              <Link legacyBehavior href="/project-details">
+              <Link legacyBehavior href="#project">
                 <a className="more-btn wow zoomIn delay-0-2s">
                   <span>More</span>
                   <i className="fal fa-arrow-up" />
