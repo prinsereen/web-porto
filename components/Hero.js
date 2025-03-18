@@ -83,7 +83,7 @@ export const Hero2 = () => {
       <div className="container rel z-3">
         <div className="hero-two-content">
           <span className="sub-title wow fadeInLeft delay-0-1s">
-            <i className="flaticon-asterisk-1" /> Software & AI Developer
+            <i className="flaticon-asterisk-1" /> Software Developer
           </span>
           <span className="title wow fadeInLeft delay-0-2s">
             Hello <small>i,m</small>

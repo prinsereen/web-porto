@@ -176,7 +176,7 @@ export const Contact2 = () => {
                 <div className="col-sm-8">
                   <h3>i,m avaiable at</h3>
                   <h5>
-                    <i className="far fa-envelope" /> hello@prinserenn.my.id
+                    <i className="far fa-envelope" /> prinsnnuzeren@gmail.com
                   </h5>
                   <h5>
                     <i className="far fa-phone" /> 082114822843

@@ -101,7 +101,7 @@ export const About2 = () => {
                   Introduction of Myself
                 </span>
                 <h2>
-                  i,m a <span>software development</span> connecting ideas to solutions through
+                  i,m a <span>software developmer</span> connecting ideas to solutions through
                   innovative code and seamless technology.
                 </h2>
               </div>
