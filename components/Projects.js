@@ -171,7 +171,7 @@ export const Projects2 = () => {
                   src="assets/images/projects/project-two1.png"
                   alt="Project"
                 />
-                <Link legacyBehavior href="https://telkomcorpu.prinserenn.my.id">
+                <Link legacyBehavior href="https://telkomcorpu.prinserenn.my.id/sites/about-us">
                   <a className="hover-box">
                     <span>View More</span>
                     <i className="far fa-arrow-up" />
@@ -180,7 +180,7 @@ export const Projects2 = () => {
               </div>
               <div className="content">
                 <h5 className="title">
-                  <Link legacyBehavior href="https://telkomcorpu.prinserenn.my.id">
+                  <Link legacyBehavior href="https://telkomcorpu.prinserenn.my.id/sites/about-us">
                     <a>Telkom Corpu Website</a>
                   </Link>
                 </h5>
